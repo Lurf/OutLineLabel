@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        label.textColor = .white
+        
         label.outlineColor = .blue
         label.outlineSize = 2.0
     }
